@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reshator Laborator v3.0", "Reshator Laborator v3.0\Reshator Laborator v3.0.vcxproj", "{64F2BAC8-E889-47F6-A2AE-5E3EED677D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F2BAC8-E889-47F6-A2AE-5E3EED677D3D}.Debug|x64.ActiveCfg = Debug|x64
+		{64F2BAC8-E889-47F6-A2AE-5E3EED677D3D}.Debug|x64.Build.0 = Debug|x64
+		{64F2BAC8-E889-47F6-A2AE-5E3EED677D3D}.Debug|x86.ActiveCfg = Debug|Win32
+		{64F2BAC8-E889-47F6-A2AE-5E3EED677D3D}.Debug|x86.Build.0 = Debug|Win32
+		{64F2BAC8-E889-47F6-A2AE-5E3EED677D3D}.Release|x64.ActiveCfg = Release|x64
+		{64F2BAC8-E889-47F6-A2AE-5E3EED677D3D}.Release|x64.Build.0 = Release|x64
+		{64F2BAC8-E889-47F6-A2AE-5E3EED677D3D}.Release|x86.ActiveCfg = Release|Win32
+		{64F2BAC8-E889-47F6-A2AE-5E3EED677D3D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {039D26CF-F0FD-46EB-90B9-449DF16C3042}
+	EndGlobalSection
+EndGlobal
